@@ -1,4 +1,4 @@
-# Inventery_Management
+
 # Product CRUD Application
 
 ## Description
